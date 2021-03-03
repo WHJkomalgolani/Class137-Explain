@@ -1,0 +1,9 @@
+First we need to run code of class136.
+
+Google chrome Extension Moesif CORS also needs to be installed .(This plugin allows you to send cross-domain requests. )
+
+For details ngork is needed.
+
+Then we need to run class137.
+
+
